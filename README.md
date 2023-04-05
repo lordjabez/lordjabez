@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi, I'm Jud (he/him). I like to build things that promote human flourishing, both well-architected technical solutions and organizations well-suited to implement them.
 
-<!--
-**lordjabez/lordjabez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Blog: https://makingofthings.com
+* LinkedIn: https://www.linkedin.com/in/judsonneer
+* Résumé: https://github.com/lordjabez/resume
+* Stack Overflow: https://stackoverflow.com/users/2262968/jud
 
-Here are some ideas to get you started:
+Besides all things technology, here are some things I like:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Games with family and friends, especially [Settlers of Catan](https://www.catan.com/) and [Somerset](https://www.somersetgame.com/)
+* Making music, especially low frequencies on a bass guitar, but also some piano
+* Running, usually listening to podcasts along the way
+
+Here's some favorite quotes (slightly paraphrased in one case):
+
+_"The programmer, like the poet, works only slightly removed from pure thought-stuff. She builds her castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures. The magic of myth and legend has come true in our time." - Fred Brooks_
+
+_"Only those who will risk going too far can possibly find out how far one can go." - T.S. Eliot_
+
+_"When two things are not the same, then they are different." - Me_
