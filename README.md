@@ -13,7 +13,7 @@ Besides all things technology, here are some things I like:
 
 Here's some favorite quotes (slightly paraphrased in one case):
 
-_"The programmer, like the poet, works only slightly removed from pure thought-stuff. She builds her castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures. The magic of myth and legend has come true in our time." - Fred Brooks_
+_"The programmer, like the poet, works only slightly removed from pure thought-stuff. They build their castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures. The magic of myth and legend has come true in our time." - Fred Brooks_
 
 _"Only those who will risk going too far can possibly find out how far one can go." - T.S. Eliot_
 
