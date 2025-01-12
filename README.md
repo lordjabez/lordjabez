@@ -4,8 +4,9 @@ Hi, I'm Jud (he/him). I like to build things that promote human flourishing, bot
 * LinkedIn: https://www.linkedin.com/in/judsonneer
 * Résumé: https://github.com/lordjabez/resume
 * Stack Overflow: https://stackoverflow.com/users/2262968/jud
+* Books: https://app.thestorygraph.com/profile/lordjabez
 
-Besides all things technology, here are some things I like:
+Besides technology, here are some other things I enjoy:
 
 * Games with family and friends, especially [Settlers of Catan](https://www.catan.com/) and [Somerset](https://www.somersetgame.com/)
 * Making music, especially low frequencies on a bass guitar, but also some piano
